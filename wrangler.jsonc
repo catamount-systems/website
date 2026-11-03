@@ -1,0 +1,8 @@
+{
+  // Static site served from ./public by Cloudflare Workers (static assets).
+  "name": "website",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./public"
+  }
+}
